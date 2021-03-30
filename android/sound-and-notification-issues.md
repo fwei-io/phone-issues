@@ -12,6 +12,7 @@ This report includes 2 issues:
 This issue is reproducible yet I think it is **expected behavior.** I asked the QA from the related team to double confirm. Will correct it if I am wrong. Precondition: All the notification permissions are granted
 
 A: Pixel 4XL/Android 11/11.20.0.36 production
+
 B: iPhone 12 Prom Max/iOS 14.4/11.23.0.1 Gold
 
 Steps to reproduce:
