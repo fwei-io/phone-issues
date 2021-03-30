@@ -43,4 +43,4 @@ Actual result: The test device could receive the push notification. However, the
 - `Device Settings > App icon badges > Badge display mode > Dots`
 - `Auxiliary device sends the test device a text message`
 
-Actual result: The test device could receive the push notification, and there is a dot badge to the top right of the app logo. However, I have no luck to reproduce "The Dots badge disappear when new messages coming**".
+Actual result: The test device could receive the push notification, and there is a dot badge to the top right of the app logo. However, I have no luck to reproduce "The Dots badge disappear when new messages coming".
