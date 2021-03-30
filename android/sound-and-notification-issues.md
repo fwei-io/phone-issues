@@ -36,7 +36,9 @@ Test on Huawei Mate 30/TAS-L29/Android/EMUI version 10.0.0 on 11.18.0.30 product
 1. `Device Settings > App icon badges > Badge display mode > Numbers`
 2. `Auxiliary device sends the test device a text message`
 
-Actual result: The test device could receive the push notification. However, there is no number badge to the top right of the app logo. As for the question "**Could I confirm if you app does not support the Numbers badge display?**" The latest update that I can search from the previous emails. This matches with the latest info from the email.
+Actual result: The test device could receive the push notification. However, there is no number badge to the top right of the app logo. As for the question "**Could I confirm if you app does not support the Numbers badge display?**" The latest update that I can search from the previous emails. This matches with the latest info from the email. -- 
+
+> I talked to one of our internal teams today and here is their feedback: they would prefer that Huawei adopts Android standard badging logic. If Huawei is planning to use a proprietary method to set the badge number, we will maintain this as a backlog development item but do not currently have an ETA to fix it.
 
 **Scenario 2:**
 
