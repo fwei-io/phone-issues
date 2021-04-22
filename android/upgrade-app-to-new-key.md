@@ -4,7 +4,7 @@
 
 The app currently has remaining 400K+ DAU who are still using version 11.16.x.x and older version, looks like these users won’t upgrade to 11.17. These apps use the old expired key signature, it cannot be upgraded to future APK/App Bundle (new key) without breaking the key signature verification.
 
-Here is the situation:
+App history and future paths:
 
 1. App 11.16 and older has the old/expired key.
 2. App 11.17 (current) has old/expired key and allowed signing keys (debug, new). However the developer made a mistake by putting a debug key in the allowed key sets; they should have use the same old key.
@@ -19,4 +19,4 @@ To upgrade to 11.18 (new & debug keys only), user must:
 
 Developer is requesting HOTA to force update all current AG installed apps (preload or regular app) to version 11.17 in the background. Per developer’s engineer manager, they know this can be done through OEM OS if configured correctly, if OEM has no issue with such upgrade policies. They are willing to be the request party and sign legal approval to perform such OTA update.
 
-Once 95-99% of their users have installed the app with new key signature, they can launch 11.18 app(s) and then App Bundle, which will increase user acquisition and engagement, benefiting both companies.
+Once 95+% of their users have installed the app with new key signature, they can launch 11.18 app(s) and then App Bundle, which will increase user acquisition and engagement, benefiting both companies.
