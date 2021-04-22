@@ -10,7 +10,7 @@ Here is the situation:
 2. App 11.17 (current) has old/expired key and allowed signing keys (debug, new). However the developer made a mistake by putting a debug key in the allowed key sets; they should have use the same old key.
 3. Now developer cannot ask user to upgrade to 11.18+ with the old or debug keys. If they use new key,     11.16 and older app users must go through AG warming prompts.
 
-![upgrade-app-to-new-key](/Users/weichungchuo/Downloads/phone-issues/images/upgrade-app-to-new-key.jpg)
+![upgrade-app-to-new-key](https://raw.githubusercontent.com/fwei-io/phone-issues/main/images/upgrade-app-to-new-key.jpg)
 
 To upgrade to 11.18 (new & debug keys only), user must:
 
