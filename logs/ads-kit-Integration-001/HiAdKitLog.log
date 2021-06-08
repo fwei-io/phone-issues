@@ -1,0 +1,339 @@
+[2021-06-09 00:19:21.471 I/HiAd/HiAdKit.AppSwitchMonitor 1651-com.huawei.hwid.persistent:Binder:1651_B] call
+[2021-06-09 00:19:42.895 I/HiAd/HiAdKit.AppSwitchMonitor 1651-com.huawei.hwid.persistent:Binder:1651_B] call
+[2021-06-09 00:19:42.899 I/HiAd/HiAdKit.KitStatisticsReport 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-350] do not report kit daily active
+[2021-06-09 00:19:43.020 I/HiAd/HiAdKit.SystemUtil 1651-com.huawei.hwid.persistent:Binder:1651_B] pkg=com.myApp:10211
+[2021-06-09 00:19:43.062 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-282] isCmdAllowAccess crom: false permitRegion: 1
+[2021-06-09 00:19:43.063 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-282] call method: reportShowStartEvent
+[2021-06-09 00:19:43.063 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-282] callerPkg: com.myApp
+[2021-06-09 00:19:43.099 I/HiAd/HiAdKit.NormalEventReporter 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-230] addEventToCache, event:showstart showId:1623187183013, contentId:45012226_2
+[2021-06-09 00:19:43.368 W/HiAd/HiAdKit.as 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-230] toObject JSONException
+[2021-06-09 00:19:43.368 I/HiAd/HiAdKit.ThirdMonitorReporter 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-230] monitors empty
+[2021-06-09 00:19:43.377 I/HiAd/HiAdKit.ThirdMonitorReporter 1651-com.huawei.hwid.persistent:ThirdMonitor-Event-pool-thread-66] uploadThirdPartyCacheEvents size: 0
+[2021-06-09 00:19:43.388 I/HiAd/HiAdKit.be 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] multicard device
+[2021-06-09 00:19:43.398 I/HiAd/HiAdKit.AdInfoUtil 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] query ua once 2 week
+[2021-06-09 00:19:43.401 I/HiAd/HiAdKit.SystemUtil 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] isDeviceProvisioned: true
+[2021-06-09 00:19:43.405 I/HiAd/HiAdKit.HttpCall 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] oobe: false
+[2021-06-09 00:19:43.410 I/HiAd/HiAdKit.AccessMethod.Builder 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] countryCode:BG
+[2021-06-09 00:19:43.412 I/HiAd/HiAdKit.HttpUrlConnectionCaller 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] createConnection: https://******/act******
+[2021-06-09 00:19:43.412 I/HiAd/HiAdKit.HiAdRequestDataLogger 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-350] upper thread name: Normal-Event-pool-thread-62 request data: {"event":[{"appSdkVersion":"13.4.41.304","hmsVersion":"50300312","opTimesInLandingPage":0,"paramfromserver":"******","rawX":0,"rawY":0,"repeatedCount":0,"requestType":0,"seq":"965","showid":"1623187183013","time":1623187183099,"type":"showstart"}],"sdkversion":"3.4.41.303","version":"3.4"} 
+[2021-06-09 00:19:43.472 I/HiAd/HiAdKit.Response 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] setNetDuration1 59
+[2021-06-09 00:19:43.472 I/HiAd/HiAdKit.Response 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] setNetDuration2 59
+[2021-06-09 00:19:43.472 I/HiAd/HiAdKit.Response 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] setDataConverterCost 0
+[2021-06-09 00:19:43.472 I/HiAd/HiAdKit.HttpUrlConnectionCaller 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] close connection
+[2021-06-09 00:19:43.473 I/HiAd/HiAdKit.HttpCall 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] response http code: 200
+[2021-06-09 00:19:43.473 I/HiAd/HiAdKit.HiAdResponseDataLogger 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-350] upper thread name: Normal-Event-pool-thread-62 response data: {"result":[{"retcode":200,"seq":"965"}]} 
+[2021-06-09 00:19:43.516 I/HiAd/HiAdKit.SystemUtil 1651-com.huawei.hwid.persistent:Binder:1651_B] pkg=com.myApp:10211
+[2021-06-09 00:19:43.518 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-283] isCmdAllowAccess crom: false permitRegion: 1
+[2021-06-09 00:19:43.518 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-283] call method: reportShowEvent
+[2021-06-09 00:19:43.518 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-283] callerPkg: com.myApp
+[2021-06-09 00:19:43.541 I/HiAd/HiAdKit.EventProcessor 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-283] onAdImp key: 3_45012226_2_c70c2555-1a4d-4f55-8f76-c333abbced3b_imp repeated event
+[2021-06-09 00:19:43.542 I/HiAd/HiAdKit.NormalEventReporter 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-283] isDiscard:false, eventType:repeatedImp, contentId:45012226_2
+[2021-06-09 00:19:43.542 I/HiAd/HiAdKit.NormalEventReporter 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-231] addEventToCache, event:repeatedImp showId:1623187183013, contentId:45012226_2
+[2021-06-09 00:19:43.542 I/HiAd/HiAdKit.AnalysisReport 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-283] createAnalysisInfo enable: true
+[2021-06-09 00:19:43.546 I/HiAd/HiAdKit.be 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-283] multicard device
+[2021-06-09 00:19:43.559 I/HiAd/HiAdKit.SystemUtil 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-283] process: com.huawei.hwid.persistent
+[2021-06-09 00:19:43.568 I/HiAd/HiAdKit.EventProcessor 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-232] create event, type is : exception AnalysisInfo{analysisType='99', adtype=3}
+[2021-06-09 00:19:43.568 I/HiAd/HiAdKit.AnalysisEventReporter 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-232] isDiscard:false, eventType:exception_99, contentId:null
+[2021-06-09 00:19:43.568 I/HiAd/HiAdKit.AnalysisEventReporter 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-232] addEventToCache, event:exception showId:null, contentId:null
+[2021-06-09 00:19:43.701 W/HiAd/HiAdKit.as 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-231] toObject JSONException
+[2021-06-09 00:19:43.701 I/HiAd/HiAdKit.ThirdMonitorReporter 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-231] monitors empty
+[2021-06-09 00:19:43.708 I/HiAd/HiAdKit.ThirdMonitorReporter 1651-com.huawei.hwid.persistent:ThirdMonitor-Event-pool-thread-66] uploadThirdPartyCacheEvents size: 0
+[2021-06-09 00:19:43.720 I/HiAd/HiAdKit.be 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] multicard device
+[2021-06-09 00:19:43.729 I/HiAd/HiAdKit.AdInfoUtil 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] query ua once 2 week
+[2021-06-09 00:19:43.732 I/HiAd/HiAdKit.SystemUtil 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] isDeviceProvisioned: true
+[2021-06-09 00:19:43.735 I/HiAd/HiAdKit.HttpCall 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] oobe: false
+[2021-06-09 00:19:43.743 I/HiAd/HiAdKit.AccessMethod.Builder 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] countryCode:BG
+[2021-06-09 00:19:43.745 I/HiAd/HiAdKit.HiAdRequestDataLogger 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-350] upper thread name: Normal-Event-pool-thread-62 request data: {"event":[{"appSdkVersion":"13.4.41.304","hmsVersion":"50300312","maxShowRatio":100,"opTimesInLandingPage":0,"paramfromserver":"******","rawX":0,"rawY":0,"repeatedCount":0,"requestType":0,"seq":"966","showTimeDuration":500,"showid":"1623187183013","time":1623187183530,"type":"repeatedImp"}],"sdkversion":"3.4.41.303","version":"3.4"} 
+[2021-06-09 00:19:43.745 I/HiAd/HiAdKit.HttpUrlConnectionCaller 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] createConnection: https://******/act******
+[2021-06-09 00:19:43.857 I/HiAd/HiAdKit.Response 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] setNetDuration1 111
+[2021-06-09 00:19:43.858 I/HiAd/HiAdKit.Response 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] setNetDuration2 112
+[2021-06-09 00:19:43.858 I/HiAd/HiAdKit.Response 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] setDataConverterCost 0
+[2021-06-09 00:19:43.858 I/HiAd/HiAdKit.HttpUrlConnectionCaller 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] close connection
+[2021-06-09 00:19:43.858 I/HiAd/HiAdKit.HiAdResponseDataLogger 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-350] upper thread name: Normal-Event-pool-thread-62 response data: {"result":[{"retcode":200,"seq":"966"}]} 
+[2021-06-09 00:19:43.859 I/HiAd/HiAdKit.HttpCall 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] response http code: 200
+[2021-06-09 00:19:44.911 I/HiAd/HiAdKit.ExSplashManager 1651-com.huawei.hwid.persistent:main] do not request exsplash config
+[2021-06-09 00:19:44.913 I/HiAd/HiAdKit.ExSplashUtil 1651-com.huawei.hwid.persistent:PPS-SplashNet-pool-thread-45] cache exsplash mode:1
+[2021-06-09 00:19:45.408 I/HiAd/HiAdKit.AppSwitchMonitor 1651-com.huawei.hwid.persistent:Binder:1651_9] call
+[2021-06-09 00:19:45.766 I/HiAd/HiAdKit.SystemUtil 1651-com.huawei.hwid.persistent:Binder:1651_8] pkg=com.myApp:10211
+[2021-06-09 00:19:45.770 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-279] isCmdAllowAccess crom: false permitRegion: 1
+[2021-06-09 00:19:45.770 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-279] call method: reportShowEvent
+[2021-06-09 00:19:45.770 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-279] callerPkg: com.myApp
+[2021-06-09 00:19:45.785 I/HiAd/HiAdKit.NormalEventReporter 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-279] isDiscard:false, eventType:phyImp, contentId:45012226_2
+[2021-06-09 00:19:45.786 I/HiAd/HiAdKit.NormalEventReporter 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-232] addEventToCache, event:phyImp showId:1623187183013, contentId:45012226_2
+[2021-06-09 00:19:46.019 W/HiAd/HiAdKit.as 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-232] toObject JSONException
+[2021-06-09 00:19:46.020 I/HiAd/HiAdKit.ThirdMonitorReporter 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-232] monitors empty
+[2021-06-09 00:19:46.027 I/HiAd/HiAdKit.ThirdMonitorReporter 1651-com.huawei.hwid.persistent:ThirdMonitor-Event-pool-thread-66] uploadThirdPartyCacheEvents size: 0
+[2021-06-09 00:19:46.041 I/HiAd/HiAdKit.be 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] multicard device
+[2021-06-09 00:19:46.051 I/HiAd/HiAdKit.AdInfoUtil 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] query ua once 2 week
+[2021-06-09 00:19:46.053 I/HiAd/HiAdKit.SystemUtil 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] isDeviceProvisioned: true
+[2021-06-09 00:19:46.058 I/HiAd/HiAdKit.HttpCall 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] oobe: false
+[2021-06-09 00:19:46.070 I/HiAd/HiAdKit.AccessMethod.Builder 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] countryCode:BG
+[2021-06-09 00:19:46.074 I/HiAd/HiAdKit.HiAdRequestDataLogger 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-350] upper thread name: Normal-Event-pool-thread-62 request data: {"event":[{"appSdkVersion":"13.4.41.304","hmsVersion":"50300312","maxShowRatio":100,"opTimesInLandingPage":0,"paramfromserver":"******","rawX":0,"rawY":0,"repeatedCount":0,"requestType":0,"seq":"967","showTimeDuration":2749,"showid":"1623187183013","time":1623187185785,"type":"phyImp"}],"sdkversion":"3.4.41.303","version":"3.4"} 
+[2021-06-09 00:19:46.077 I/HiAd/HiAdKit.HttpUrlConnectionCaller 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] createConnection: https://******/act******
+[2021-06-09 00:19:46.169 I/HiAd/HiAdKit.Response 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] setNetDuration1 92
+[2021-06-09 00:19:46.171 I/HiAd/HiAdKit.Response 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] setNetDuration2 93
+[2021-06-09 00:19:46.171 I/HiAd/HiAdKit.Response 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] setDataConverterCost 1
+[2021-06-09 00:19:46.171 I/HiAd/HiAdKit.HttpUrlConnectionCaller 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] close connection
+[2021-06-09 00:19:46.171 I/HiAd/HiAdKit.HiAdResponseDataLogger 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-352] upper thread name: Normal-Event-pool-thread-62 response data: {"result":[{"retcode":200,"seq":"967"}]} 
+[2021-06-09 00:19:46.171 I/HiAd/HiAdKit.HttpCall 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] response http code: 200
+[2021-06-09 00:19:48.923 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:main] service onUnbind
+[2021-06-09 00:19:48.924 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:main] service onDestroy
+[2021-06-09 00:19:48.924 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:main] freeUnnecessaryMemory
+[2021-06-09 00:19:49.719 I/HiAd/HiAdKit.AppSwitchMonitor 1651-com.huawei.hwid.persistent:Binder:1651_9] call
+[2021-06-09 00:19:49.737 I/HiAd/HiAdKit.KitStatisticsReport 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-351] do not report kit daily active
+[2021-06-09 00:19:53.388 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:main] service onCreate
+[2021-06-09 00:19:53.389 I/HiAd/HiAdKit.ServerConfig 1651-com.huawei.hwid.persistent:PPS-Net-pool-thread-190] init begin
+[2021-06-09 00:19:53.404 I/HiAd/HiAd 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-352] 
+============================================================================
+====== HiAd-3.4.41.303
+====== Brand: HUAWEI Model: DRA-LX9 Release: 10 API: 29
+============================================================================
+[2021-06-09 00:19:53.405 W/HiAd/HiAdKit.ReflectAPI 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-352] class not found for com.huawei.hms.support.log.KitLog
+[2021-06-09 00:19:53.462 I/HiAd/HiAdKit.OpenDeviceIdentifierBindService 1651-com.huawei.hwid.persistent:main] onBind
+[2021-06-09 00:19:53.468 I/HiAd/HiAd 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-351] 
+============================================================================
+====== HiAd-3.4.41.303
+====== Brand: HUAWEI Model: DRA-LX9 Release: 10 API: 29
+============================================================================
+[2021-06-09 00:19:53.469 W/HiAd/HiAdKit.ReflectAPI 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-351] class not found for com.huawei.hms.support.log.KitLog
+[2021-06-09 00:19:54.954 I/HiAd/HiAdKit.SystemUtil 1651-com.huawei.hwid.persistent:Binder:1651_B] pkg=com.myApp:10211
+[2021-06-09 00:19:54.962 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-280] isCmdAllowAccess crom: false permitRegion: 1
+[2021-06-09 00:19:54.963 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-280] call method: AidlConnectMonitorMethod
+[2021-06-09 00:19:54.963 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-280] callerPkg: com.myApp
+[2021-06-09 00:19:54.963 I/HiAd/HiAdKit.CmdAidlMonitor 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-280] CmdAidlMonitor call from com.myApp
+[2021-06-09 00:19:54.963 I/HiAd/HiAdKit.AnalysisReport 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-280] createAnalysisInfo enable: true
+[2021-06-09 00:19:54.964 I/HiAd/HiAdKit.SystemUtil 1651-com.huawei.hwid.persistent:Binder:1651_B] pkg=com.myApp:10211
+[2021-06-09 00:19:54.968 I/HiAd/HiAdKit.be 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-280] multicard device
+[2021-06-09 00:19:54.975 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-281] isCmdAllowAccess crom: false permitRegion: 1
+[2021-06-09 00:19:54.975 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-281] call method: message_notify_handler
+[2021-06-09 00:19:54.975 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-281] callerPkg: com.myApp
+[2021-06-09 00:19:54.976 I/HiAd/HiAdKit.PersistentMessageCenter 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-281] register notify: com.myApp_appInnerNotification
+[2021-06-09 00:19:54.983 I/HiAd/HiAdKit.SystemUtil 1651-com.huawei.hwid.persistent:Binder:1651_B] pkg=com.myApp:10211
+[2021-06-09 00:19:54.986 I/HiAd/HiAdKit.OpenDeviceIdentifierServiceImpl 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-352] get oaid from:com.myApp
+[2021-06-09 00:19:54.990 I/HiAd/HiAdKit.OpenDeviceIdentifierServiceImpl 1651-com.huawei.hwid.persistent:Binder:1651_B] isOaidTrackLimited
+[2021-06-09 00:19:55.000 I/HiAd/HiAdKit.SystemUtil 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-280] process: com.huawei.hwid.persistent
+[2021-06-09 00:19:55.007 I/HiAd/HiAdKit.EventProcessor 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-230] create event, type is : exception AnalysisInfo{analysisType='47', adtype=-1}
+[2021-06-09 00:19:55.008 I/HiAd/HiAdKit.AnalysisEventReporter 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-230] addEventToCache, event:exception showId:null, contentId:null
+[2021-06-09 00:19:56.214 I/HiAd/HiAdKit.SystemUtil 1651-com.huawei.hwid.persistent:Binder:1651_B] pkg=com.myApp:10211
+[2021-06-09 00:19:56.218 I/HiAd/HiAdKit.InnerApiProvider 1651-com.huawei.hwid.persistent:Binder:1651_B] query Location switch
+[2021-06-09 00:19:56.223 I/HiAd/HiAdKit.SystemUtil 1651-com.huawei.hwid.persistent:Binder:1651_A] pkg=com.myApp:10211
+[2021-06-09 00:19:56.229 I/HiAd/HiAdKit.InnerApiProvider 1651-com.huawei.hwid.persistent:Binder:1651_A] query Location switch
+[2021-06-09 00:19:56.236 I/HiAd/HiAdKit.SystemUtil 1651-com.huawei.hwid.persistent:Binder:1651_9] pkg=com.myApp:10211
+[2021-06-09 00:19:56.241 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:PPS-CmdAdReq-pool-thread-59] isCmdAllowAccess crom: false permitRegion: 1
+[2021-06-09 00:19:56.241 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:PPS-CmdAdReq-pool-thread-59] call method: reqNativeAd
+[2021-06-09 00:19:56.242 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:PPS-CmdAdReq-pool-thread-59] callerPkg: com.myApp
+[2021-06-09 00:19:56.244 I/HiAd/HiAdKit.SystemUtil 1651-com.huawei.hwid.persistent:Binder:1651_9] pkg=com.myApp:10211
+[2021-06-09 00:19:56.247 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:PPS-Net-pool-thread-192] isCmdAllowAccess crom: false permitRegion: 1
+[2021-06-09 00:19:56.247 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:PPS-Net-pool-thread-192] call method: reqConfig
+[2021-06-09 00:19:56.247 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:PPS-Net-pool-thread-192] callerPkg: com.myApp
+[2021-06-09 00:19:56.248 I/HiAd/HiAdKit.CmdReqNativeAd 1651-com.huawei.hwid.persistent:PPS-Net-pool-thread-191] doRequestAd 1623187196248
+[2021-06-09 00:19:56.250 I/HiAd/HiAdKit.SystemUtil 1651-com.huawei.hwid.persistent:PPS-Net-pool-thread-191] process: com.huawei.hwid.persistent
+[2021-06-09 00:19:56.253 I/HiAd/HiAdKit.be 1651-com.huawei.hwid.persistent:PPS-Device-pool-thread-32] multicard device
+[2021-06-09 00:19:56.258 I/HiAd/HiAdKit.SystemUtil 1651-com.huawei.hwid.persistent:PPS-Net-pool-thread-192] process: com.huawei.hwid.persistent
+[2021-06-09 00:19:56.265 I/HiAd/HiAdKit.be 1651-com.huawei.hwid.persistent:PPS-Device-pool-thread-32] multicard device
+[2021-06-09 00:19:56.270 I/HiAd/HiAdKit.DeviceUtil 1651-com.huawei.hwid.persistent:PPS-Net-pool-thread-192] getHMVerion, ver= 
+[2021-06-09 00:19:56.271 I/HiAd/HiAdKit.mo 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-351] The reporting interval is less than one hour
+[2021-06-09 00:19:56.272 I/HiAd/HiAdKit.UserDetectionManager 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-352] initAntiFraud
+[2021-06-09 00:19:56.277 I/HiAd/HiAdKit.SystemUtil 1651-com.huawei.hwid.persistent:PPS-Net-pool-thread-192] isDeviceProvisioned: true
+[2021-06-09 00:19:56.281 I/HiAd/HiAdKit.HttpCall 1651-com.huawei.hwid.persistent:PPS-Net-pool-thread-192] oobe: false
+[2021-06-09 00:19:56.289 I/HiAd/HiAdKit.AdInfoUtil 1651-com.huawei.hwid.persistent:PPS-Device-pool-thread-32] query ua once 2 week
+[2021-06-09 00:19:56.292 W/HiAd/HiAdKit.nq 1651-com.huawei.hwid.persistent:PPS-Net-pool-thread-191] can not set app info:com.myApp
+[2021-06-09 00:19:56.293 I/HiAd/HiAdKit.AccessMethod.Builder 1651-com.huawei.hwid.persistent:PPS-Net-pool-thread-192] countryCode:BG
+[2021-06-09 00:19:56.297 I/HiAd/HiAdKit.HttpUrlConnectionCaller 1651-com.huawei.hwid.persistent:PPS-Net-pool-thread-192] createConnection: https://******/que******
+[2021-06-09 00:19:56.300 I/HiAd/HiAdKit.HiAdRequestDataLogger 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-351] upper thread name: PPS-Net-pool-thread-192 request data: {"app":{"pkgname":"com.myApp","verCode":"102600006"},"appSdkVersion":"13.4.41.304","device":{"agCountryCode":"BG","brand":"HUAWEI","dpi":0,"emuiSdkInt":23,"emuiVer":"EmotionUI_10.1.0","height":0,"language":"en","localeCountry":"BG","maker":"HUAWEI","model":"DRA-LX9","os":"android","pxratio":0.0,"roLocale":"EN-GB","roLocaleCountry":"US","simCountryIso":"BG","type":4,"vendor":"HW","vendorCountry":"EU","verCodeOfAG":"110202302","verCodeOfHms":"50300312","verCodeOfHsf":"110002200","version":"10","width":0},"oaid":"******","routerCountry":"BG","sdkVerCode":"30441303","sdkversion":"3.4.41.303","serverStore":"******","slotid":"testb65czjivt9","udid":"******","version":"3.4"} 
+[2021-06-09 00:19:56.303 I/HiAd/HiAdKit.DeviceUtil 1651-com.huawei.hwid.persistent:PPS-Device-pool-thread-32] getHMVerion, ver= 
+[2021-06-09 00:19:56.305 I/HiAd/HiAdKit.n 1651-com.huawei.hwid.persistent:PPS-Net-pool-thread-191] prep req info
+[2021-06-09 00:19:56.305 I/HiAd/HiAdKit.DeviceManager 1651-com.huawei.hwid.persistent:PPS-Net-pool-thread-191] isDroi:false
+[2021-06-09 00:19:56.326 E/HiAd/HiAdKit.AdInfoUtil 1651-com.huawei.hwid.persistent:PPS-Net-pool-thread-191] get content switch status error, setting not found.
+[2021-06-09 00:19:56.327 E/HiAd/HiAdKit.AdInfoUtil 1651-com.huawei.hwid.persistent:PPS-Net-pool-thread-191] get ScreenReader status error, setting not found.
+[2021-06-09 00:19:56.344 I/HiAd/HiAdKit.n 1651-com.huawei.hwid.persistent:PPS-Net-pool-thread-191] do ad req
+[2021-06-09 00:19:56.353 I/HiAd/HiAdKit.SystemUtil 1651-com.huawei.hwid.persistent:PPS-Net-pool-thread-191] isDeviceProvisioned: true
+[2021-06-09 00:19:56.356 I/HiAd/HiAdKit.HttpCall 1651-com.huawei.hwid.persistent:PPS-Net-pool-thread-191] oobe: false
+[2021-06-09 00:19:56.364 I/HiAd/HiAdKit.AccessMethod.Builder 1651-com.huawei.hwid.persistent:PPS-Net-pool-thread-191] countryCode:BG
+[2021-06-09 00:19:56.369 I/HiAd/HiAdKit.HiAdRequestDataLogger 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-352] upper thread name: PPS-Net-pool-thread-191 request data: {"adRestrict":0,"rtenv":1,"appsdkversion":"13.4.41.304","app":{"mediaGpsOn":0,"name":"My App","pkgname":"com.myApp","sign":"dc1cc66840b1569b2fedd2dc90c03adbb53e64771f8be3f4415ab38c62d39a9e","systemFlag":0,"version":"1.26.3-2313"},"clientAdRequestId":"8186f9e0-46e1-4b52-9bd3-e214ce3b0311","device":{"aaid":"******","adsLoc":1,"agCountryCode":"BG","brand":"HUAWEI","buildVersion":"DRA-L29 10.1.0.163(C432E3R2P1)","clientTime":"2021-06-09 00:19:56.311+0300","dpi":320,"emuiVer":"EmotionUI_10.1.0","freeDiskSize":20508196864,"freeSdcardSize":20487225344,"gpsOn":0,"height":1440,"hmsGpsOn":0,"isTrackingEnabled":"******","language":"en","localeCountry":"BG","maker":"HUAWEI","model":"DRA-LX9","oaid":"******","os":"android","pxratio":2.0,"roLocale":"EN-GB","roLocaleCountry":"US","routerCountry":"BG","simCountryIso":"BG","totalDiskSize":26055016448,"totalSdcardSize":26034044928,"type":4,"udid":"******","useragent":"******","uuid":"******","vendor":"HW","vendorCountry":"EU","verCodeOfAG":"110202302","verCodeOfHms":"50300312","verCodeOfHsf":"110002200","version":"10","width":720},"multislot":[{"adtype":3,"height":1440,"isSmart":2,"maxCount":1,"slotid":"testb65czjivt9","test":0,"width":720}],"network":{"cellInfo":"******","type":2},"regs":{"tfua":1},"parentCtrlUser":-1,"pdToOther":0,"ppsStore":"******","reqPurpose":1,"scrnReadStat":-1,"sdkversion":"3.4.41.303","version":"3.4"} 
+[2021-06-09 00:19:56.370 I/HiAd/HiAdKit.HttpUrlConnectionCaller 1651-com.huawei.hwid.persistent:PPS-Net-pool-thread-191] createConnection: https://******/res******
+[2021-06-09 00:19:56.439 I/HiAd/HiAdKit.Response 1651-com.huawei.hwid.persistent:PPS-Net-pool-thread-192] setNetDuration1 141
+[2021-06-09 00:19:56.442 I/HiAd/HiAdKit.HiAdResponseDataLogger 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-351] upper thread name: PPS-Net-pool-thread-192 response data: {"adsCoreSel":1,"bdinterval":60,"cacheAdReqTiggerOneDayTimes":12,"cacheAdReqTriggerInterval":60,"cacheAdTirggerMode":1,"configMap":"{\"clctSdkAppListSwitch\":\"1\",\"insAppsFilterSwitch\":\"0\",\"scheRefreshIntvl\":\"24\"}","configRefreshInterval":10,"defBrowerPkgList":["com.android.browser","com.huawei.browser"],"exSplashCacheDelStrategy":2,"exSplashCachePkgNumPerReq":5,"gif_show_time_lower_limit_each_frame":100,"gif_show_time_upper_limit":8000,"gif_size_upper_limit":7500,"globalSwitch":"10","img_size_upper_limit":3000,"landingMenu":1,"landpageAppPrompt":0,"landpageAppWhiteList":"******","landpageWebBlackList":"******","limitOfContainerAspectRatio":0.05,"locationExpireTime":1800000,"locationRefreshInterval":120000,"locationSwitch":1,"maxBannerInterval":120,"minBannerInterval":30,"preloadSplashReqTimeInterval":600000,"retcode":200,"rwdGnTm":90,"schemeInfo":["market:com.huawei.appmarket"],"serverStore":"******","sloganShowMinTimeRealMode":300,"sloganShowTime":2000,"splashcachenum":50,"splashCacheTotalMaxNum":1000,"splashCacheTotalMaxSize":500,"splashShowTimeInterval":0,"splashSkipArea":40,"splashUserAppDayImpFc":0,"splashmode":2,"splashshow":3000,"supportGzip":0,"supportHmsSdkVerCode":"40700000","validityOfClickSkip":30,"validityOfLockEvent":10080,"validityOfNativeEvent":2280,"validityOfSplashEvent":2280} 
+[2021-06-09 00:19:56.443 I/HiAd/HiAdKit.Response 1651-com.huawei.hwid.persistent:PPS-Net-pool-thread-192] setNetDuration2 141
+[2021-06-09 00:19:56.443 I/HiAd/HiAdKit.Response 1651-com.huawei.hwid.persistent:PPS-Net-pool-thread-192] setDataConverterCost 4
+[2021-06-09 00:19:56.443 I/HiAd/HiAdKit.HttpUrlConnectionCaller 1651-com.huawei.hwid.persistent:PPS-Net-pool-thread-192] close connection
+[2021-06-09 00:19:56.443 I/HiAd/HiAdKit.HttpCall 1651-com.huawei.hwid.persistent:PPS-Net-pool-thread-192] response http code: 200
+[2021-06-09 00:19:56.467 I/HiAd/HiAdKit.DiskCacheManager 1651-com.huawei.hwid.persistent:PPS-Net-pool-thread-192] fileDiskCache is null, recreate
+[2021-06-09 00:19:56.508 I/HiAd/HiAdKit.Response 1651-com.huawei.hwid.persistent:PPS-Net-pool-thread-191] setNetDuration1 138
+[2021-06-09 00:19:56.511 I/HiAd/HiAdKit.Response 1651-com.huawei.hwid.persistent:PPS-Net-pool-thread-191] setNetDuration2 139
+[2021-06-09 00:19:56.511 I/HiAd/HiAdKit.Response 1651-com.huawei.hwid.persistent:PPS-Net-pool-thread-191] setDataConverterCost 2
+[2021-06-09 00:19:56.511 I/HiAd/HiAdKit.HttpUrlConnectionCaller 1651-com.huawei.hwid.persistent:PPS-Net-pool-thread-191] close connection
+[2021-06-09 00:19:56.512 I/HiAd/HiAdKit.HttpCall 1651-com.huawei.hwid.persistent:PPS-Net-pool-thread-191] response http code: 200
+[2021-06-09 00:19:56.512 I/HiAd/HiAdKit.Response 1651-com.huawei.hwid.persistent:PPS-Net-pool-thread-191] setInfoCost 38
+[2021-06-09 00:19:56.512 I/HiAd/HiAdKit.HiAdResponseDataLogger 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-350] upper thread name: PPS-Net-pool-thread-191 response data: {"adPreloadInterval":0,"cost":"7,5,0,4,0,0,1,4,7","dsp1cost":0,"dspcost":0,"multiad":[{"content":[{"clickActionList":[1],"contentid":"45012226_2","creativetype":7,"ctrlSwitchs":"100011001001100001","dispTime":0,"endtime":1623190790308,"filterList":[3],"interactiontype":1,"keyWords":["Bad+quality","Seen+before","Dislike+this+type+of+Ad","Dislike+the+source","Dislike+the+Ad"],"keyWordsType":["1","2","3","4","5"],"landingTitle":0,"logo2Pos":"ll","metaData":"******","paramfromserver":"******","sequence":0,"showAppLogoFlag":1,"skipTextPos":"tr","spare":0,"starttime":1582300800000,"taskid":"35010250","useGaussianBlur":0,"webConfig":"******","whyThisAd":"https%3A%2F%2Fconsumer.huawei.com%2Fminisite%2Fcloudservice%2Fadinfo%2Fterms.htm%3Fcountry%3DOVERSEA%26language%3Den-US%26version%3D20191227"}],"retcode30":200,"slotid":"testb65czjivt9"}],"retcode":200,"totalCacheSize":300} 
+[2021-06-09 00:19:56.514 I/HiAd/HiAdKit.AnalysisReport 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-350] createAnalysisInfo enable: true
+[2021-06-09 00:19:56.517 I/HiAd/HiAdKit.AnalysisReport 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-351] createAnalysisInfo enable: true
+[2021-06-09 00:19:56.518 I/HiAd/HiAdKit.NormalEventReporter 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-230] isDiscard:false, eventType:response, contentId:45012226_2
+[2021-06-09 00:19:56.519 I/HiAd/HiAdKit.NormalEventReporter 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-230] addEventToCache, event:response showId:null, contentId:45012226_2
+[2021-06-09 00:19:56.522 I/HiAd/HiAdKit.be 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-350] multicard device
+[2021-06-09 00:19:56.522 I/HiAd/HiAdKit.CmdReqNativeAd 1651-com.huawei.hwid.persistent:PPS-Net-pool-thread-191] doRequestAd, ad loaded,adType is 3
+[2021-06-09 00:19:56.522 I/HiAd/HiAdKit.NormalEventReporter 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-352] isDiscard:false, eventType:adPreCheck, contentId:45012226_2
+[2021-06-09 00:19:56.523 I/HiAd/HiAdKit.AnalysisReport 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-352] createAnalysisInfo enable: true
+[2021-06-09 00:19:56.523 I/HiAd/HiAdKit.be 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-351] multicard device
+[2021-06-09 00:19:56.524 I/HiAd/HiAdKit.NormalEventReporter 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-232] addEventToCache, event:adPreCheck showId:1623187196515, contentId:45012226_2
+[2021-06-09 00:19:56.527 I/HiAd/HiAdKit.NativeAdProcessor 1651-com.huawei.hwid.persistent:PPS-Net-pool-thread-191] parser
+[2021-06-09 00:19:56.528 I/HiAd/HiAdKit.ContentProcessor 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-231] invalidContentIds is empty
+[2021-06-09 00:19:56.529 I/HiAd/HiAdKit.NativeAdProcessor 1651-com.huawei.hwid.persistent:PPS-Net-pool-thread-191] dealImage, adId:testb65czjivt9
+[2021-06-09 00:19:56.531 W/HiAd/HiAdKit.as 1651-com.huawei.hwid.persistent:PPS-Net-pool-thread-191] toObject JSONException
+[2021-06-09 00:19:56.533 I/HiAd/HiAdKit.be 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-352] multicard device
+[2021-06-09 00:19:56.539 I/HiAd/HiAdKit.SystemUtil 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-351] process: com.huawei.hwid.persistent
+[2021-06-09 00:19:56.549 I/HiAd/HiAdKit.SystemUtil 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-352] process: com.huawei.hwid.persistent
+[2021-06-09 00:19:56.551 I/HiAd/HiAdKit.AnalysisReport 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-352] clctWifi is off
+[2021-06-09 00:19:56.552 I/HiAd/HiAdKit.AnalysisReport 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-352] clctDyncData is off
+[2021-06-09 00:19:56.552 I/HiAd/HiAdKit.AnalysisReport 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-352] clctStatData is off
+[2021-06-09 00:19:56.558 I/HiAd/HiAdKit.SystemUtil 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-350] process: com.huawei.hwid.persistent
+[2021-06-09 00:19:56.559 I/HiAd/HiAdKit.WifiUtils 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-352] collect devCntList switch off
+[2021-06-09 00:19:56.565 I/HiAd/HiAdKit.EventProcessor 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-231] create event, type is : exception AnalysisInfo{analysisType='7', adtype=3}
+[2021-06-09 00:19:56.566 I/HiAd/HiAdKit.AnalysisEventReporter 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-231] addEventToCache, event:exception showId:null, contentId:null
+[2021-06-09 00:19:56.589 W/HiAd/HiAdKit.as 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-232] toObject JSONException
+[2021-06-09 00:19:56.589 I/HiAd/HiAdKit.ThirdMonitorReporter 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-232] monitors empty
+[2021-06-09 00:19:56.594 I/HiAd/HiAdKit.EventProcessor 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-232] create event, type is : exception AnalysisInfo{analysisType='6', adtype=3}
+[2021-06-09 00:19:56.594 I/HiAd/HiAdKit.AnalysisEventReporter 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-232] addEventToCache, event:exception showId:null, contentId:null
+[2021-06-09 00:19:56.599 I/HiAd/HiAdKit.ThirdMonitorReporter 1651-com.huawei.hwid.persistent:ThirdMonitor-Event-pool-thread-66] uploadThirdPartyCacheEvents size: 0
+[2021-06-09 00:19:56.612 I/HiAd/HiAdKit.be 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] multicard device
+[2021-06-09 00:19:56.621 I/HiAd/HiAdKit.AdInfoUtil 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] query ua once 2 week
+[2021-06-09 00:19:56.623 I/HiAd/HiAdKit.SystemUtil 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] isDeviceProvisioned: true
+[2021-06-09 00:19:56.626 I/HiAd/HiAdKit.HttpCall 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] oobe: false
+[2021-06-09 00:19:56.633 I/HiAd/HiAdKit.AccessMethod.Builder 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] countryCode:BG
+[2021-06-09 00:19:56.636 I/HiAd/HiAdKit.HiAdRequestDataLogger 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-350] upper thread name: Normal-Event-pool-thread-62 request data: {"event":[{"appSdkVersion":"13.4.41.304","hmsVersion":"50300312","opTimesInLandingPage":0,"paramfromserver":"******","preCheckResult":9,"rawX":0,"rawY":0,"repeatedCount":0,"requestType":0,"seq":"968","showid":"1623187196515","time":1623187196522,"type":"adPreCheck"}],"sdkversion":"3.4.41.303","version":"3.4"} 
+[2021-06-09 00:19:56.638 I/HiAd/HiAdKit.HttpUrlConnectionCaller 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] createConnection: https://******/act******
+[2021-06-09 00:19:56.661 I/HiAd/HiAdKit.EventProcessor 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-231] create event, type is : exception AnalysisInfo{analysisType='113', adtype=3}
+[2021-06-09 00:19:56.661 I/HiAd/HiAdKit.AnalysisEventReporter 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-231] addEventToCache, event:exception showId:null, contentId:null
+[2021-06-09 00:19:56.686 I/HiAd/HiAdKit.ThirdMonitorReporter 1651-com.huawei.hwid.persistent:ThirdMonitor-Event-pool-thread-66] uploadThirdPartyCacheEvents size: 0
+[2021-06-09 00:19:56.734 I/HiAd/HiAdKit.Response 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] setNetDuration1 95
+[2021-06-09 00:19:56.735 I/HiAd/HiAdKit.Response 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] setNetDuration2 95
+[2021-06-09 00:19:56.736 I/HiAd/HiAdKit.Response 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] setDataConverterCost 2
+[2021-06-09 00:19:56.736 I/HiAd/HiAdKit.HttpUrlConnectionCaller 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] close connection
+[2021-06-09 00:19:56.736 I/HiAd/HiAdKit.HttpCall 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] response http code: 200
+[2021-06-09 00:19:56.736 I/HiAd/HiAdKit.HiAdResponseDataLogger 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-351] upper thread name: Normal-Event-pool-thread-62 response data: {"result":[{"retcode":200,"seq":"968"}]} 
+[2021-06-09 00:19:56.747 I/HiAd/HiAdKit.be 1651-com.huawei.hwid.persistent:Analysis-Event-pool-thread-35] multicard device
+[2021-06-09 00:19:56.754 I/HiAd/HiAdKit.AdInfoUtil 1651-com.huawei.hwid.persistent:Analysis-Event-pool-thread-35] query ua once 2 week
+[2021-06-09 00:19:56.757 I/HiAd/HiAdKit.SystemUtil 1651-com.huawei.hwid.persistent:Analysis-Event-pool-thread-35] isDeviceProvisioned: true
+[2021-06-09 00:19:56.760 I/HiAd/HiAdKit.HttpCall 1651-com.huawei.hwid.persistent:Analysis-Event-pool-thread-35] oobe: false
+[2021-06-09 00:19:56.769 I/HiAd/HiAdKit.AccessMethod.Builder 1651-com.huawei.hwid.persistent:Analysis-Event-pool-thread-35] countryCode:BG
+[2021-06-09 00:19:56.778 I/HiAd/HiAdKit.HttpUrlConnectionCaller 1651-com.huawei.hwid.persistent:Analysis-Event-pool-thread-35] createConnection: https://******/act******
+[2021-06-09 00:19:56.780 I/HiAd/HiAdKit.HiAdRequestDataLogger 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-351] upper thread name: Analysis-Event-pool-thread-35 request data: {"event":[{"ext":"******","opTimesInLandingPage":0,"rawX":0,"rawY":0,"repeatedCount":0,"requestType":0,"seq":"1469","time":1623187196564,"type":"exception"},{"ext":"******","opTimesInLandingPage":0,"rawX":0,"rawY":0,"repeatedCount":0,"requestType":0,"seq":"1468","time":1623187195006,"type":"exception"},{"ext":"******","opTimesInLandingPage":0,"rawX":0,"rawY":0,"repeatedCount":0,"requestType":0,"seq":"1467","time":1623187183566,"type":"exception"},{"ext":"******","opTimesInLandingPage":0,"rawX":0,"rawY":0,"repeatedCount":0,"requestType":0,"seq":"1466","time":1623187145580,"type":"exception"},{"ext":"******","opTimesInLandingPage":0,"rawX":0,"rawY":0,"repeatedCount":0,"requestType":0,"seq":"1465","time":1623187145466,"type":"exception"},{"ext":"******","opTimesInLandingPage":0,"rawX":0,"rawY":0,"repeatedCount":0,"requestType":0,"seq":"1464","time":1623187145402,"type":"exception"},{"ext":"******","opTimesInLandingPage":0,"rawX":0,"rawY":0,"repeatedCount":0,"requestType":0,"seq":"1463","time":1623186747070,"type":"exception"},{"ext":"******","opTimesInLandingPage":0,"rawX":0,"rawY":0,"repeatedCount":0,"requestType":0,"seq":"1470","time":1623187196592,"type":"exception"}],"sdkversion":"3.4.41.303","version":"3.4"} 
+[2021-06-09 00:19:56.826 I/HiAd/HiAdKit.Response 1651-com.huawei.hwid.persistent:Analysis-Event-pool-thread-35] setNetDuration1 48
+[2021-06-09 00:19:56.827 I/HiAd/HiAdKit.Response 1651-com.huawei.hwid.persistent:Analysis-Event-pool-thread-35] setNetDuration2 49
+[2021-06-09 00:19:56.828 I/HiAd/HiAdKit.Response 1651-com.huawei.hwid.persistent:Analysis-Event-pool-thread-35] setDataConverterCost 1
+[2021-06-09 00:19:56.828 I/HiAd/HiAdKit.HttpUrlConnectionCaller 1651-com.huawei.hwid.persistent:Analysis-Event-pool-thread-35] close connection
+[2021-06-09 00:19:56.828 I/HiAd/HiAdKit.HttpCall 1651-com.huawei.hwid.persistent:Analysis-Event-pool-thread-35] response http code: 200
+[2021-06-09 00:19:56.828 I/HiAd/HiAdKit.HiAdResponseDataLogger 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-350] upper thread name: Analysis-Event-pool-thread-35 response data: {"result":[{"retcode":200,"seq":"1469"},{"retcode":200,"seq":"1468"},{"retcode":200,"seq":"1467"},{"retcode":200,"seq":"1466"},{"retcode":200,"seq":"1465"},{"retcode":200,"seq":"1464"},{"retcode":200,"seq":"1463"},{"retcode":200,"seq":"1470"}]} 
+[2021-06-09 00:19:56.874 I/HiAd/HiAdKit.SystemUtil 1651-com.huawei.hwid.persistent:Binder:1651_B] pkg=com.myApp:10211
+[2021-06-09 00:19:56.877 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-282] isCmdAllowAccess crom: false permitRegion: 1
+[2021-06-09 00:19:56.877 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-282] call method: rptAdServe
+[2021-06-09 00:19:56.877 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-282] callerPkg: com.myApp
+[2021-06-09 00:19:56.893 W/HiAd/HiAdKit.as 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-282] toObject JSONException
+[2021-06-09 00:19:56.898 I/HiAd/HiAdKit.SystemUtil 1651-com.huawei.hwid.persistent:Binder:1651_B] pkg=com.myApp:10211
+[2021-06-09 00:19:56.900 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-283] isCmdAllowAccess crom: false permitRegion: 1
+[2021-06-09 00:19:56.900 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-283] call method: downSourceFetcher
+[2021-06-09 00:19:56.900 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-283] callerPkg: com.myApp
+[2021-06-09 00:19:56.908 I/HiAd/HiAdKit.SystemUtil 1651-com.huawei.hwid.persistent:Binder:1651_B] pkg=com.myApp:10211
+[2021-06-09 00:19:56.914 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-279] isCmdAllowAccess crom: false permitRegion: 1
+[2021-06-09 00:19:56.914 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-279] call method: apistatistics
+[2021-06-09 00:19:56.914 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-279] callerPkg: com.myApp
+[2021-06-09 00:19:56.918 W/HiAd/HiAdKit.ReflectAPI 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-283] class not found for okhttp3.OkHttpClient
+[2021-06-09 00:19:56.918 I/HiAd/HiAdKit.HttpCallerFactory 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-283] create HttpUrlConnectionCaller
+[2021-06-09 00:19:56.920 I/HiAd/HiAdKit.SourceFetcher 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-283] download file from local
+[2021-06-09 00:19:56.921 I/HiAd/HiAdKit.AnalysisReport 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-279] createAnalysisInfo enable: true
+[2021-06-09 00:19:56.926 I/HiAd/HiAdKit.be 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-279] multicard device
+[2021-06-09 00:19:56.934 I/HiAd/HiAdKit.ContentResourceDao 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-283] resource is exist, contentId:45012226_2
+[2021-06-09 00:19:56.937 I/HiAd/HiAdKit.SystemUtil 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-279] process: com.huawei.hwid.persistent
+[2021-06-09 00:19:56.944 I/HiAd/HiAdKit.SystemUtil 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-279] process: com.huawei.hwid.persistent
+[2021-06-09 00:19:56.945 I/HiAd/HiAdKit.SystemUtil 1651-com.huawei.hwid.persistent:Binder:1651_B] pkg=com.myApp:10211
+[2021-06-09 00:19:56.949 I/HiAd/HiAdKit.InnerApiProvider 1651-com.huawei.hwid.persistent:Binder:1651_B] isCallerAppEnabledPpsService com.myApp true
+[2021-06-09 00:19:56.952 I/HiAd/HiAdKit.SystemUtil 1651-com.huawei.hwid.persistent:Binder:1651_B] pkg=com.myApp:10211
+[2021-06-09 00:19:56.955 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-281] isCmdAllowAccess crom: false permitRegion: 1
+[2021-06-09 00:19:56.955 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-281] call method: reportShowStartEvent
+[2021-06-09 00:19:56.955 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-281] callerPkg: com.myApp
+[2021-06-09 00:19:56.958 I/HiAd/HiAdKit.EventProcessor 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-232] create event, type is : exception AnalysisInfo{analysisType='65', adtype=3}
+[2021-06-09 00:19:56.958 I/HiAd/HiAdKit.AnalysisEventReporter 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-232] addEventToCache, event:exception showId:null, contentId:null
+[2021-06-09 00:19:56.960 I/HiAd/HiAdKit.SystemUtil 1651-com.huawei.hwid.persistent:Binder:1651_B] pkg=com.myApp:10211
+[2021-06-09 00:19:56.964 I/HiAd/HiAdKit.InnerApiProvider 1651-com.huawei.hwid.persistent:Binder:1651_B] isCallerAppEnabledPpsService com.myApp true
+[2021-06-09 00:19:56.987 I/HiAd/HiAdKit.NormalEventReporter 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-231] addEventToCache, event:showstart showId:1623187196950, contentId:45012226_2
+[2021-06-09 00:19:57.208 W/HiAd/HiAdKit.as 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-231] toObject JSONException
+[2021-06-09 00:19:57.212 I/HiAd/HiAdKit.ThirdMonitorReporter 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-231] monitors empty
+[2021-06-09 00:19:57.219 I/HiAd/HiAdKit.ThirdMonitorReporter 1651-com.huawei.hwid.persistent:ThirdMonitor-Event-pool-thread-66] uploadThirdPartyCacheEvents size: 0
+[2021-06-09 00:19:57.248 I/HiAd/HiAdKit.be 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] multicard device
+[2021-06-09 00:19:57.258 I/HiAd/HiAdKit.AdInfoUtil 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] query ua once 2 week
+[2021-06-09 00:19:57.260 I/HiAd/HiAdKit.SystemUtil 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] isDeviceProvisioned: true
+[2021-06-09 00:19:57.263 I/HiAd/HiAdKit.HttpCall 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] oobe: false
+[2021-06-09 00:19:57.269 I/HiAd/HiAdKit.AccessMethod.Builder 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] countryCode:BG
+[2021-06-09 00:19:57.274 I/HiAd/HiAdKit.HiAdRequestDataLogger 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-350] upper thread name: Normal-Event-pool-thread-62 request data: {"event":[{"appSdkVersion":"13.4.41.304","hmsVersion":"50300312","opTimesInLandingPage":0,"paramfromserver":"******","rawX":0,"rawY":0,"repeatedCount":0,"requestType":0,"seq":"970","showid":"1623187196950","time":1623187196987,"type":"showstart"},{"appSdkVersion":"13.4.41.304","downloadSize":0,"hmsVersion":"50300312","opTimesInLandingPage":0,"paramfromserver":"******","rawX":0,"rawY":0,"repeatedCount":0,"requestType":0,"seq":"969","time":1623187196517,"type":"response"}],"sdkversion":"3.4.41.303","version":"3.4"} 
+[2021-06-09 00:19:57.275 I/HiAd/HiAdKit.HttpUrlConnectionCaller 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] createConnection: https://******/act******
+[2021-06-09 00:19:57.346 I/HiAd/HiAdKit.Response 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] setNetDuration1 71
+[2021-06-09 00:19:57.349 I/HiAd/HiAdKit.Response 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] setNetDuration2 73
+[2021-06-09 00:19:57.349 I/HiAd/HiAdKit.Response 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] setDataConverterCost 1
+[2021-06-09 00:19:57.349 I/HiAd/HiAdKit.HttpUrlConnectionCaller 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] close connection
+[2021-06-09 00:19:57.349 I/HiAd/HiAdKit.HttpCall 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] response http code: 200
+[2021-06-09 00:19:57.349 I/HiAd/HiAdKit.HiAdResponseDataLogger 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-351] upper thread name: Normal-Event-pool-thread-62 response data: {"result":[{"retcode":200,"seq":"970"},{"retcode":200,"seq":"969"}]} 
+[2021-06-09 00:19:57.455 I/HiAd/HiAdKit.SystemUtil 1651-com.huawei.hwid.persistent:Binder:1651_B] pkg=com.myApp:10211
+[2021-06-09 00:19:57.457 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-280] isCmdAllowAccess crom: false permitRegion: 1
+[2021-06-09 00:19:57.457 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-280] call method: reportShowEvent
+[2021-06-09 00:19:57.457 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-280] callerPkg: com.myApp
+[2021-06-09 00:19:57.512 I/HiAd/HiAdKit.EventProcessor 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-280] onAdImp key: 3_45012226_2_8186f9e0-46e1-4b52-9bd3-e214ce3b0311_imp report event
+[2021-06-09 00:19:57.515 I/HiAd/HiAdKit.ImpEventReporter 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-230] addEventToCache, event:imp showId:1623187196950, contentId:45012226_2
+[2021-06-09 00:19:57.516 I/HiAd/HiAdKit.AnalysisReport 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-280] createAnalysisInfo enable: true
+[2021-06-09 00:19:57.521 I/HiAd/HiAdKit.be 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-280] multicard device
+[2021-06-09 00:19:57.531 I/HiAd/HiAdKit.SystemUtil 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-280] process: com.huawei.hwid.persistent
+[2021-06-09 00:19:57.537 I/HiAd/HiAdKit.EventProcessor 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-232] create event, type is : exception AnalysisInfo{analysisType='99', adtype=3}
+[2021-06-09 00:19:57.538 I/HiAd/HiAdKit.AnalysisEventReporter 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-232] isDiscard:false, eventType:exception_99, contentId:null
+[2021-06-09 00:19:57.538 I/HiAd/HiAdKit.AnalysisEventReporter 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-232] addEventToCache, event:exception showId:null, contentId:null
+[2021-06-09 00:19:57.610 I/HiAd/HiAdKit.AnalysisReport 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-230] createAnalysisInfo enable: true
+[2021-06-09 00:19:57.617 I/HiAd/HiAdKit.be 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-230] multicard device
+[2021-06-09 00:19:57.628 I/HiAd/HiAdKit.SystemUtil 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-230] process: com.huawei.hwid.persistent
+[2021-06-09 00:19:57.630 W/HiAd/HiAdKit.as 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-230] toObject JSONException
+[2021-06-09 00:19:57.631 I/HiAd/HiAdKit.ThirdMonitorReporter 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-230] monitors empty
+[2021-06-09 00:19:57.635 I/HiAd/HiAdKit.EventProcessor 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-231] create event, type is : exception AnalysisInfo{analysisType='100', adtype=3}
+[2021-06-09 00:19:57.635 I/HiAd/HiAdKit.AnalysisEventReporter 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-231] isDiscard:false, eventType:exception_100, contentId:null
+[2021-06-09 00:19:57.635 I/HiAd/HiAdKit.AnalysisEventReporter 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-231] addEventToCache, event:exception showId:null, contentId:null
+[2021-06-09 00:19:57.640 I/HiAd/HiAdKit.ThirdMonitorReporter 1651-com.huawei.hwid.persistent:ThirdMonitor-Event-pool-thread-66] uploadThirdPartyCacheEvents size: 0
+[2021-06-09 00:19:57.675 I/HiAd/HiAdKit.be 1651-com.huawei.hwid.persistent:Imp-Event-pool-thread-27] multicard device
+[2021-06-09 00:19:57.684 I/HiAd/HiAdKit.AdInfoUtil 1651-com.huawei.hwid.persistent:Imp-Event-pool-thread-27] query ua once 2 week
+[2021-06-09 00:19:57.687 I/HiAd/HiAdKit.SystemUtil 1651-com.huawei.hwid.persistent:Imp-Event-pool-thread-27] isDeviceProvisioned: true
+[2021-06-09 00:19:57.691 I/HiAd/HiAdKit.HttpCall 1651-com.huawei.hwid.persistent:Imp-Event-pool-thread-27] oobe: false
+[2021-06-09 00:19:57.699 I/HiAd/HiAdKit.AccessMethod.Builder 1651-com.huawei.hwid.persistent:Imp-Event-pool-thread-27] countryCode:BG
+[2021-06-09 00:19:57.700 I/HiAd/HiAdKit.HiAdRequestDataLogger 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-350] upper thread name: Imp-Event-pool-thread-27 request data: {"event":[{"appSdkVersion":"13.4.41.304","downloadSize":0,"hmsVersion":"50300312","maxShowRatio":100,"opTimesInLandingPage":0,"paramfromserver":"******","rawX":0,"rawY":0,"repeatedCount":0,"requestType":0,"riskToken":"******","seq":"120","showTimeDuration":500,"showid":"1623187196950","time":1623187197473,"type":"imp"}],"sdkversion":"3.4.41.303","version":"3.4"} 
+[2021-06-09 00:19:57.701 I/HiAd/HiAdKit.HttpUrlConnectionCaller 1651-com.huawei.hwid.persistent:Imp-Event-pool-thread-27] createConnection: https://******/act******
+[2021-06-09 00:19:57.749 I/HiAd/HiAdKit.Response 1651-com.huawei.hwid.persistent:Imp-Event-pool-thread-27] setNetDuration1 48
+[2021-06-09 00:19:57.751 I/HiAd/HiAdKit.Response 1651-com.huawei.hwid.persistent:Imp-Event-pool-thread-27] setNetDuration2 49
+[2021-06-09 00:19:57.751 I/HiAd/HiAdKit.Response 1651-com.huawei.hwid.persistent:Imp-Event-pool-thread-27] setDataConverterCost 1
+[2021-06-09 00:19:57.751 I/HiAd/HiAdKit.HttpUrlConnectionCaller 1651-com.huawei.hwid.persistent:Imp-Event-pool-thread-27] close connection
+[2021-06-09 00:19:57.751 I/HiAd/HiAdKit.HttpCall 1651-com.huawei.hwid.persistent:Imp-Event-pool-thread-27] response http code: 200
+[2021-06-09 00:19:57.751 I/HiAd/HiAdKit.HiAdResponseDataLogger 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-350] upper thread name: Imp-Event-pool-thread-27 response data: {"result":[{"retcode":200,"seq":"120"}]} 
+[2021-06-09 00:19:57.752 I/HiAd/HiAdKit.AnalysisReport 1651-com.huawei.hwid.persistent:Imp-Event-pool-thread-27] createAnalysisInfo enable: true
+[2021-06-09 00:19:57.759 I/HiAd/HiAdKit.be 1651-com.huawei.hwid.persistent:Imp-Event-pool-thread-27] multicard device
+[2021-06-09 00:19:57.772 I/HiAd/HiAdKit.SystemUtil 1651-com.huawei.hwid.persistent:Imp-Event-pool-thread-27] process: com.huawei.hwid.persistent
+[2021-06-09 00:19:57.778 I/HiAd/HiAdKit.EventProcessor 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-232] create event, type is : exception AnalysisInfo{analysisType='101', adtype=3}
+[2021-06-09 00:19:57.778 I/HiAd/HiAdKit.AnalysisEventReporter 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-232] isDiscard:false, eventType:exception_101, contentId:null
+[2021-06-09 00:19:57.778 I/HiAd/HiAdKit.AnalysisEventReporter 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-232] addEventToCache, event:exception showId:null, contentId:null
+[2021-06-09 00:19:58.736 I/HiAd/HiAdKit.ExSplashManager 1651-com.huawei.hwid.persistent:main] do not request exsplash config
+[2021-06-09 00:19:58.738 I/HiAd/HiAdKit.ExSplashUtil 1651-com.huawei.hwid.persistent:PPS-SplashNet-pool-thread-45] cache exsplash mode:1
+[2021-06-09 00:20:00.927 I/HiAd/HiAdKit.AppSwitchMonitor 1651-com.huawei.hwid.persistent:Binder:1651_B] call
+[2021-06-09 00:20:01.290 I/HiAd/HiAdKit.SystemUtil 1651-com.huawei.hwid.persistent:Binder:1651_A] pkg=com.myApp:10211
+[2021-06-09 00:20:01.292 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-282] isCmdAllowAccess crom: false permitRegion: 1
+[2021-06-09 00:20:01.293 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-282] call method: reportShowEvent
+[2021-06-09 00:20:01.293 I/HiAd/HiAdKit.PpsCoreService 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-282] callerPkg: com.myApp
+[2021-06-09 00:20:01.318 I/HiAd/HiAdKit.NormalEventReporter 1651-com.huawei.hwid.persistent:PPS-Cmd-pool-thread-282] isDiscard:false, eventType:phyImp, contentId:45012226_2
+[2021-06-09 00:20:01.318 I/HiAd/HiAdKit.NormalEventReporter 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-231] addEventToCache, event:phyImp showId:1623187196950, contentId:45012226_2
+[2021-06-09 00:20:01.594 W/HiAd/HiAdKit.as 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-231] toObject JSONException
+[2021-06-09 00:20:01.594 I/HiAd/HiAdKit.ThirdMonitorReporter 1651-com.huawei.hwid.persistent:PPS-IO-pool-thread-231] monitors empty
+[2021-06-09 00:20:01.601 I/HiAd/HiAdKit.ThirdMonitorReporter 1651-com.huawei.hwid.persistent:ThirdMonitor-Event-pool-thread-66] uploadThirdPartyCacheEvents size: 0
+[2021-06-09 00:20:01.628 I/HiAd/HiAdKit.be 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] multicard device
+[2021-06-09 00:20:01.640 I/HiAd/HiAdKit.AdInfoUtil 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] query ua once 2 week
+[2021-06-09 00:20:01.642 I/HiAd/HiAdKit.SystemUtil 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] isDeviceProvisioned: true
+[2021-06-09 00:20:01.647 I/HiAd/HiAdKit.HttpCall 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] oobe: false
+[2021-06-09 00:20:01.659 I/HiAd/HiAdKit.AccessMethod.Builder 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] countryCode:BG
+[2021-06-09 00:20:01.661 I/HiAd/HiAdKit.HiAdRequestDataLogger 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-351] upper thread name: Normal-Event-pool-thread-62 request data: {"event":[{"appSdkVersion":"13.4.41.304","hmsVersion":"50300312","maxShowRatio":100,"opTimesInLandingPage":0,"paramfromserver":"******","rawX":0,"rawY":0,"repeatedCount":0,"requestType":0,"seq":"971","showTimeDuration":4335,"showid":"1623187196950","time":1623187201318,"type":"phyImp"}],"sdkversion":"3.4.41.303","version":"3.4"} 
+[2021-06-09 00:20:01.665 I/HiAd/HiAdKit.HttpUrlConnectionCaller 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] createConnection: https://******/act******
+[2021-06-09 00:20:01.754 I/HiAd/HiAdKit.Response 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] setNetDuration1 87
+[2021-06-09 00:20:01.755 I/HiAd/HiAdKit.Response 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] setNetDuration2 87
+[2021-06-09 00:20:01.755 I/HiAd/HiAdKit.Response 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] setDataConverterCost 1
+[2021-06-09 00:20:01.755 I/HiAd/HiAdKit.HttpUrlConnectionCaller 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] close connection
+[2021-06-09 00:20:01.755 I/HiAd/HiAdKit.HttpCall 1651-com.huawei.hwid.persistent:Normal-Event-pool-thread-62] response http code: 200
+[2021-06-09 00:20:01.755 I/HiAd/HiAdKit.HiAdResponseDataLogger 1651-com.huawei.hwid.persistent:PPS-Cal-pool-thread-350] upper thread name: Normal-Event-pool-thread-62 response data: {"result":[{"retcode":200,"seq":"971"}]} 
