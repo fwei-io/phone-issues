@@ -17,7 +17,7 @@ You are recommended to give feedback using the following model for problem-solvi
 HMS push calls were degraded with high failure rate on 6/4/2021, starting at 9:36am UTC jumping at 10am UTC, peaking at 10:27am and falling sharply at 10:36am UTC.
 
 (2) Which API did you call when the problem occurred?
-https://push-api.cloud.huawei.com/v1/<appId>/messages:send
+https://push-api.cloud.huawei.com/v1/appId/messages:send
 
 (3) What result did you expect to see?
 Success
