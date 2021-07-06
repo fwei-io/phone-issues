@@ -1,4 +1,4 @@
-#HMS support on 3rd-party phones
+# HMS support on 3rd-party phones
 
 Other than AppGallery, we have shared HMS apk via our file server, we noticed user download and side-loaded it on non-Huawei devices. We installed and tested this apk on non-Huawei Android phones, we found out that it actually worked if we side-load HMS Core app, but with minor issues like Push kit crashes (sometimes). We try to make our HMS app as compatible as possible on other OEM phones, our questions are:
 
