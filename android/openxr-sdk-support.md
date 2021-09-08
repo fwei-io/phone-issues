@@ -1,5 +1,18 @@
 # OpenXR SDK
 
+
+### 2021.09.07 OpenXR SDK bugs:
+
+- The trackpad (input/trackpad/x and input/trackpad/y) axis values report a value of 0 when using the 3DoF controller.  The "input/trackpad/value" is supposed to represent a touch pressure value but it represents the touch position from left to right (similar to what I would expect from input/trackpad/x). We only could implement the trackpad scrolling from left to right, instead of the correct vertical scroll required for most of web browsing.
+
+- XR_SPACE_LOCATION_POSITION_VALID_BIT flag is true for 3DoF controller input. It should be false as it doesn't track position.
+
+- Regarding 6DOF kit input we can only find documentation for the Huawei 3DOF input interaction profile (https://www.khronos.org/registry/OpenXR/specs/1.0/html/xrspec.html#XR_HUAWEI_controller_interaction). Could you share the interaction profile spec for the Huawei 6DOF controllers?
+
+
+
+### 2021.08.17:
+
 1. OpenXR SDK must support:
 - Conformant OpenXR implementation.
 - Support for the extra 6DOF Dev Kit.
