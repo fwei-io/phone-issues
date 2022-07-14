@@ -1,6 +1,6 @@
 # VR Glass PC Issues
 
-2021.07.22 Issues:
+### 2021.07.22 Issues:
 
 1. Cannot detect VR Glass, but 6DoF and controllers are detected through VR Glass. We have tried unplugging DisplayPort, USB, restart PC, restart Steam VR, PC VR Assistant but it still cannot detect VR Glass. What are the steps to troubleshoot?
 ![Cannot detect VR Glass in HW PC VR Assistant](https://raw.githubusercontent.com/fwei-io/phone-issues/main/images/vr-glass-pc-issues/PCVRAssistant-2021-07-22-15.01.21.jpg)
